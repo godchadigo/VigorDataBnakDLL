@@ -1,6 +1,6 @@
 # VigorDataBankDLL 是可以支援Vigor PLC ， 由此擴充庫直接生成資料銀行，省去了開發者在數據編輯以及生成上的麻煩
 # !!!可以自己換算Byte寫入各種格式int16,32,64...等等!!!
-# 如有需要其他格式請在聯繫我 email: asd281194533@gmail.com
+# 如有特殊問題請在聯繫我 email: asd281194533@gmail.com
 
 ## Function
 - WriteHex 寫入資料銀行DB檔案，若不存在則生成
