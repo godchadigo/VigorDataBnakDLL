@@ -29,4 +29,4 @@ public void CreateDataBank(){
 - enjoy!
 
 成品圖
-![image](picture or gif url)
+![image](VigorDataBnakDLL/Image/01.png)
