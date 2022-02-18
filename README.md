@@ -2,6 +2,10 @@
 # !!!目前只支援寫入32bit數據!!!
 # 如有需要其他格式請在聯繫我 email: asd281194533@gmail.com
 
+## Function
+- WriteHex 寫入資料銀行DB檔案，若不存在則生成
+- ReadHex 讀取資料銀行Header
+
 ## 使用方法
 
 ### 第一步 寫程式
@@ -28,6 +32,6 @@ public void CreateDataBank(){
 - 點擊開啟舊檔
 - enjoy!
 
-### 成品圖
+### 成品圖(下面的數據不是123是，因為此處的資料我寫的不是123)
 
 ![image](VigorDataBnakDLL/Image/01.png)
